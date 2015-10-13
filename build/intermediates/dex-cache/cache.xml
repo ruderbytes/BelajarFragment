@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d462110070041beb2363a41a56a643cd3c737bcb.jar" />
+    </item>
+    <item
+        jar="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/pre-dexed/debug/classes-4df203afd2685302268c1d4d5cd8fad1574cc572.jar" />
+    </item>
+    <item
+        jar="/home/muhammad/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f8231e36726b965fa2826f88410ab68fb219b02e.jar" />
+    </item>
+    <item
+        jar="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/pre-dexed/debug/classes-b043f200905f957b9000ed0293d85a10ea68d595.jar" />
+    </item>
+    <item
+        jar="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/muhammad/AndroidStudioProjects/BelajarFragment/app/build/intermediates/pre-dexed/debug/classes-12b9ea9c333678921b5d797da8deffacb59e2b06.jar" />
+    </item>
+
+</items>
